@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Coin Converter</string>
+    <string name="text_valor">Valor</string>
+    <string name="text_til_from">Converter de:</string>
+    <string name="text_til_to">Para:</string>
+    <string name="text_btn">Converter</string>
+    <string name="text_btn_save">Salvar</string>
+</resources>
